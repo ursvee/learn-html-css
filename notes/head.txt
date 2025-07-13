@@ -1,0 +1,16 @@
+## character Set
+A, B, C, ...
+
+## ASCII 
+American Standard Code for Information Interchange 
+
+## UTF-8
+
+
+# Elements
+
+## keyword [meta:kw]
+search engine optimization
+
+## description [meta:desc]
+website information on the search engine
