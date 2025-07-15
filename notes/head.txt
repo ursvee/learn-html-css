@@ -1,8 +1,8 @@
 ## character Set
-A, B, C, ...
+// A, B, C, ...
 
 ## ASCII 
-American Standard Code for Information Interchange 
+// American Standard Code for Information Interchange 
 
 ## UTF-8
 
@@ -10,7 +10,7 @@ American Standard Code for Information Interchange
 # Elements
 
 ## keyword [meta:kw]
-search engine optimization
+// search engine optimization
 
 ## description [meta:desc]
-website information on the search engine
+// website information on the search engine

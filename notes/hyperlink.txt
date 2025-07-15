@@ -1,0 +1,18 @@
+# Attributes
+
+//  href    -   hypertext reference 
+                reference link
+    ../../  -   level
+    /       -   relative URL [project]
+    https:  -   absolute URL [global]
+    mailto: -   email
+
+// download -   image download link
+// id       -   unique identifier #
+// #        -   top of the page
+
+// target="_blank"  - open in new tab
+
+// can add image tag between anchor tags as an image link
+// reference image inside href as an image link
+// link [URL] & hyperlink [element to navigate page]

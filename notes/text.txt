@@ -1,16 +1,16 @@
-Don't style with HTML!
+// Don't style with HTML!
 
 # Elements
 
-p       - paragraph
-em      - emphasis
-strong  - important
-h1-h6   - heading h1 [the most important] & h6 [the least important]
+// p       - paragraph
+// em      - emphasis
+// strong  - important
+// h1-h6   - heading h1 [the most important] & h6 [the least important]
 
 ## wrap
 
-Ctrl + Shift + P    - command palette
-type "wrap" > enter > type element > enter
+// Ctrl + Shift + P    - command palette
+// type "wrap" > enter > type element > enter
 
 // website should have only one h1
 

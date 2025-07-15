@@ -1,0 +1,4 @@
+https://developer.mozilla.org/en-US/docs/Glossary/Character_reference
+
+// lorem10  - lorem 10 words
+// &nbsp    - non-breaking space (no line break between words)
